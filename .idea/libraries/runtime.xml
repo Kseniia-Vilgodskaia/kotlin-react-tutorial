@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="runtime">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/js/node_modules/dukat/build/runtime/dukat-cli.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/js/node_modules/dukat/build/runtime/kotlin-stdlib-js.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

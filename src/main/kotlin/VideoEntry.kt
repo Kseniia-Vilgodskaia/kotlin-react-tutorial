@@ -1,0 +1,1 @@
+data class VideoEntry(val video: Video, var isFavourite: Boolean)
